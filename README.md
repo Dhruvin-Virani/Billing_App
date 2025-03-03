@@ -1,16 +1,14 @@
-# last_billing_app
+# Billing App
 
-A new Flutter project.
+A new Flutter project. This is an organization specific billing app with limited required feature. 
 
-## Getting Started
+## Screenshots : 
 
-This project is a starting point for a Flutter application.
+![Screenshot_20250303_134227 1](https://github.com/user-attachments/assets/abdcf5dd-2826-40a9-afbe-fc4712903663)
+![Screenshot_20250303_134308 1](https://github.com/user-attachments/assets/487b2549-149b-4b71-ba18-edc882635bc6)
 
-A few resources to get you started if this is your first Flutter project:
+## How to install : 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Go to location : build -> app -> outputs -> apk -> release
+Then install the app-release.apk
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
